@@ -11,4 +11,4 @@ Welcome to my GitHub! I'm shizuku, a Computer Science student.
 - I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
 ### 🛠 Interested in:
-- Ai Infra,RL,Ai.
+- Ai Infra, RL, Ai.
