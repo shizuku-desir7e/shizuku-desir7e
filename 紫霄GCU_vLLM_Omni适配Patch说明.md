@@ -498,8 +498,6 @@ stage_args:
 
 ```bash
 # 1. 进入 Pod
-kubectl exec -it cgame-partner-llm-zx-c200-debug-66f5bdfc79-fbvk5 \
-  -n ieg-gztechtke-zixiao-c200-nj -- /bin/bash
 
 # 2. 应用 MoE patch (首次)
 python3 /tmp/patch_zx_moe_kernel.py
